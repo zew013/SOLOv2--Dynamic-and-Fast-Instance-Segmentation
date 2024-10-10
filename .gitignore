@@ -1,0 +1,19 @@
+# Ignore PNG image files
+*.png
+
+# Ignore HDF5 model files
+*.h5
+
+# Ignore NumPy binary files
+*.npy
+
+# Ignore checkpoint files
+*.ckpt
+
+# Ignore Lightning logs directories
+lightning_logs/
+
+
+.ipynb_checkpoints
+.DS_Store
+
